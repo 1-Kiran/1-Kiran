@@ -1,61 +1,63 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="center">Hi 👋, I'm Kiran Kumar</h1>
+<h3 align="center">AI/ML Enthusiast | CS Student | Full-Stack Learner</h3>
 
-###
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=AI%2FML+Learner;Full-Stack+Developer;DSA+Enthusiast;Always+Learning+New+Things" />
+</p>
 
-<p align="left">Hi, I’m Kiran, a Computer Science student from India</p>
+---
 
-###
+## ✨ About Me
 
-<h2 align="left">About me</h2>
+✨ Exploring and building with code since 2024  
+📚 Currently learning AI/ML, Python, and Full-Stack Development  
+🎯 Goal To master DSA and build impactful real-world projects  
+🎲 Fun fact I enjoy breaking things to understand how they work  
 
-###
+---
 
-<p align="left">✨ Creating bugs since 2024 😅<br>📚 I’m currently learning AI/ML, Python, and Full-Stack Development<br>🎯 Goals To master DSA, and build impactful real-world  projects<br>🎲 Fun fact I enjoy breaking things just to understand how they work</p>
+## 💻 Tech Stack
 
-###
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,react,nodejs,mysql,postgres,docker" />
+</p>
 
-<h2 align="left">I code with</h2>
+---
 
-###
+## 📊 GitHub Stats
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo"  />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+</p>
 
-###
+---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/1-Kiran/1-Kiran/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/1-Kiran/1-Kiran/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/1-Kiran/1-Kiran/output/pacman-contribution-graph.svg">
-</picture>
+## 🧠 Top Languages
 
-###
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+</p>
 
-<div align="center">
-  <img height="200" src="https://i.pinimg.com/1200x/e6/53/8e/e6538e77315ff83f5953055b0764f559.jpg"  />
-</div>
+---
 
-###
+## 🚀 Future Goals
+
+- Build AI/ML real-world projects  
+- Master Data Structures and Algorithms  
+- Become a Full-Stack Developer  
+- Contribute to open source  
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+---
+
+⭐️ From Kiran Kumar
