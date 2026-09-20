@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kiran Kumar</h1>
-<h3 align="center">AI/ML Enthusiast | CS Student | Full-Stack Learner</h3>
+<h3 align="center">AI/ML Enthusiast | CS Student | Software Developer </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=AI%2FML+Learner;Full-Stack+Developer;DSA+Enthusiast;Always+Learning+New+Things" />
